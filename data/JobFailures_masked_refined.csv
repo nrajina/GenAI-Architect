@@ -1,0 +1,118 @@
+LogID,LogDt,LoggerName,Message,Exceptions,StackTrace,MachineName,AppDomainName,Message_Refined
+486543492,09/17/2026 00:14:14,APP_003,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""hill.jeffery@gene.com"",""licenseName"":""Lessons"",""courseCode"":""Speeding_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}","Exception - System.Net.WebException
+Message - The remote server returned an error: (500) Internal Server Error.
+","   at System.Net.HttpWebRequest.GetResponse()
+   at Wheels3.Contact.Driver.Safety.VendorTrainingAssignment.eaService.AlertDriving.CallAPI[T](String method, String action, String parameters)",WHQGECS2,APP_011,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""hill.jeffery@gene.com"",""licenseName"":""Lessons"",""courseCode"":""Speeding_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}"
+486543488,09/17/2026 00:13:29,APP_003,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Timothy.Dickerson@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Avoiding Rear-End Collisions_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}","Exception - System.Net.WebException
+Message - The remote server returned an error: (500) Internal Server Error.
+","   at System.Net.HttpWebRequest.GetResponse()
+   at Wheels3.Contact.Driver.Safety.VendorTrainingAssignment.eaService.AlertDriving.CallAPI[T](String method, String action, String parameters)",WHQGECS2,APP_011,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Timothy.Dickerson@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Avoiding Rear-End Collisions_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}"
+486543486,09/17/2026 00:13:27,APP_003,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Daniel.Gonzalez@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Avoiding Rear-End Collisions_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}","Exception - System.Net.WebException
+Message - The remote server returned an error: (500) Internal Server Error.
+","   at System.Net.HttpWebRequest.GetResponse()
+   at Wheels3.Contact.Driver.Safety.VendorTrainingAssignment.eaService.AlertDriving.CallAPI[T](String method, String action, String parameters)",WHQGECS2,APP_011,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Daniel.Gonzalez@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Avoiding Rear-End Collisions_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}"
+486543485,09/17/2026 00:13:24,APP_003,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Timothy.Dickerson@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Defensive Driver_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}","Exception - System.Net.WebException
+Message - The remote server returned an error: (500) Internal Server Error.
+","   at System.Net.HttpWebRequest.GetResponse()
+   at Wheels3.Contact.Driver.Safety.VendorTrainingAssignment.eaService.AlertDriving.CallAPI[T](String method, String action, String parameters)",WHQGECS2,APP_011,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Timothy.Dickerson@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Defensive Driver_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}"
+486543483,09/17/2026 00:13:21,APP_003,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Timothy.Dickerson@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Defensive Parking Strategies_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}","Exception - System.Net.WebException
+Message - The remote server returned an error: (500) Internal Server Error.
+","   at System.Net.HttpWebRequest.GetResponse()
+   at Wheels3.Contact.Driver.Safety.VendorTrainingAssignment.eaService.AlertDriving.CallAPI[T](String method, String action, String parameters)",WHQGECS2,APP_011,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Timothy.Dickerson@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Defensive Parking Strategies_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}"
+486543482,09/17/2026 00:13:19,APP_003,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Daniel.Gonzalez@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Defensive Driver_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}","Exception - System.Net.WebException
+Message - The remote server returned an error: (500) Internal Server Error.
+","   at System.Net.HttpWebRequest.GetResponse()
+   at Wheels3.Contact.Driver.Safety.VendorTrainingAssignment.eaService.AlertDriving.CallAPI[T](String method, String action, String parameters)",WHQGECS2,APP_011,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Daniel.Gonzalez@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Defensive Driver_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}"
+486543481,09/17/2026 00:13:16,APP_003,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Daniel.Gonzalez@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Defensive Parking Strategies_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}","Exception - System.Net.WebException
+Message - The remote server returned an error: (500) Internal Server Error.
+","   at System.Net.HttpWebRequest.GetResponse()
+   at Wheels3.Contact.Driver.Safety.VendorTrainingAssignment.eaService.AlertDriving.CallAPI[T](String method, String action, String parameters)",WHQGECS2,APP_011,"ERROR response from AD CallAPI method.Action: AssignTraining;Parameters: {""email"":""Daniel.Gonzalez@allegion.com"",""licenseName"":""Lessons"",""courseCode"":""Defensive Parking Strategies_01""};Error Response: {""success"":false,""message"":""{\""success\"":false,\""error\"":\""User is suspended\""} - Contact AlertDriving Support"",""code"":""UNEXPECTED_ERROR""}"
+486542358,09/16/2026 20:44:05,APP_001,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.,,,WHQGECS2,APP_010,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.
+486542348,09/16/2026 20:43:18,APP_001,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.,,,WHQGECS2,APP_010,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.
+486542344,09/16/2026 20:43:05,APP_001,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.,,,WHQGECS2,APP_010,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.
+486542340,09/16/2026 20:42:24,APP_001,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.,,,WHQGECS2,APP_010,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.
+486542338,09/16/2026 20:42:05,APP_001,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.,,,WHQGECS2,APP_010,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.
+486542334,09/16/2026 20:41:47,APP_001,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.,,,WHQGECS2,APP_010,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.
+486542332,09/16/2026 20:41:42,APP_001,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.,,,WHQGECS2,APP_010,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.
+486542330,09/16/2026 20:41:38,APP_001,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.,,,WHQGECS2,APP_010,Service for messageType Business.Client.Profile.GetGenericProfileData returns ReturnCode = -1.
+486537303,09/16/2026 16:05:47,APP_005,Adding new events failed. Message:,,,WHQGECS1,APP_008,Adding new events failed. Message:
+486531695,09/16/2026 14:05:43,APP_005,Adding new events failed. Message:,,,WHQGECS1,APP_008,Adding new events failed. Message:
+486522147,09/16/2026 12:05:43,APP_005,Adding new events failed. Message:,,,WHQGECS1,APP_008,Adding new events failed. Message:
+486381974,09/16/2026 10:05:47,APP_005,Adding new events failed. Message:,,,WHQGECS1,APP_008,Adding new events failed. Message:
+486230569,09/16/2026 08:05:46,APP_005,Adding new events failed. Message:,,,WHQGECS1,APP_008,Adding new events failed. Message:
+486086816,09/15/2026 16:05:35,APP_005,Adding new events failed. Message:,,,WHQGECS1,APP_008,Adding new events failed. Message:
+486076699,09/15/2026 14:05:44,APP_005,Adding new events failed. Message:,,,WHQGECS1,APP_008,Adding new events failed. Message:
+463324436,07/24/2026 20:05:48,APP_001-RegistrationBatch.SaveDVRegistration,"dv_registration_itrg Error while inserting assigning driver to DV profile or update status547       The INSERT statement conflicted with the FOREIGN KEY constraint ""FK__UserSecur__UserP__01142BA1"". Th
+An error was raised during trigger execution. The batch has been aborted and the user transaction, if any, has been rolled back.","Exception - System.Data.SqlClient.SqlException
+Message - dv_registration_itrg Error while inserting assigning driver to DV profile or update status547       The INSERT statement conflicted with the FOREIGN KEY constraint ""FK__UserSecur__UserP__01142BA1"". Th
+An error was raised during trigger execution. The batch has been aborted and the user transaction, if any, has been rolled back.
+","   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.Insert(TrackedObject item)
+   at System.Data.Linq.Ch",WHQGECS2,APP_010,"dv_registration_itrg Error while inserting assigning driver to DV profile or update status547 The INSERT statement conflicted with the FOREIGN KEY constraint ""FK__UserSecur__UserP__01142BA1"". Th An error was raised during trigger execution. The batch has been aborted and the user transaction, if any, has been rolled back."
+458840216,07/16/2026 00:22:53,APP_007,"An unexpected network error occurred.
+","Exception - System.IO.IOException
+Message - An unexpected network error occurred.
+
+","   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.FileStream.FlushWrite(Boolean calledFromFinalizer)
+   at System.IO.FileStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamWriter.Dispose(Boolean disposing)
+   at System.IO.TextWriter.Dispose()
+   at Wheels2.Contact.Driver.DVRegistration.Program.ProcessRegistrations()",WHQGECS2,APP_010,An unexpected network error occurred.
+454597576,07/06/2026 20:23:44,APP_001-RegistrationBatch.SaveDVRegistration,"dv_registration_itrg Error while inserting assigning driver to DV profile or update status547       The INSERT statement conflicted with the FOREIGN KEY constraint ""FK__UserSecur__UserP__01142BA1"". Th
+An error was raised during trigger execution. The batch has been aborted and the user transaction, if any, has been rolled back.","Exception - System.Data.SqlClient.SqlException
+Message - dv_registration_itrg Error while inserting assigning driver to DV profile or update status547       The INSERT statement conflicted with the FOREIGN KEY constraint ""FK__UserSecur__UserP__01142BA1"". Th
+An error was raised during trigger execution. The batch has been aborted and the user transaction, if any, has been rolled back.
+","   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.Insert(TrackedObject item)
+   at System.Data.Linq.Ch",WHQGECS2,APP_010,"dv_registration_itrg Error while inserting assigning driver to DV profile or update status547 The INSERT statement conflicted with the FOREIGN KEY constraint ""FK__UserSecur__UserP__01142BA1"". Th An error was raised during trigger execution. The batch has been aborted and the user transaction, if any, has been rolled back."
+424584522,04/26/2026 18:02:43,APP_004,"System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlC","Exception - System.Data.SqlClient.SqlException
+Message - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+Nested Exception
+
+Exception - System.ComponentModel.Win32Exception
+Message - The system cannot find the file specified
+
+","   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectio",WHQGECS2,APP_012,"System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager) at System.Data.SqlClient.SqlC"
+423818862,04/24/2026 21:07:08,APP_006,The HTTP service located at http://wpdcappsvc19/WebService/Wheels2.ServiceBroker/Wheels2.ServiceBroker.svc is unavailable.  This could be because the service is too busy or because no endpoint was found listening at the specified address. Please ensure that the address is correct and try accessing the service again later.,,,WHQGECS1,APP_009,The HTTP service located at http://wpdcappsvc19/WebService/Wheels2.ServiceBroker/Wheels2.ServiceBroker.svc is unavailable. This could be because the service is too busy or because no endpoint was found listening at the specified address. Please ensure that the address is correct and try accessing the service again later.
